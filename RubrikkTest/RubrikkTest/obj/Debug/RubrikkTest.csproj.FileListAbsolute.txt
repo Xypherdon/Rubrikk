@@ -1,0 +1,7 @@
+D:\Interview-uri\Rubrikk\RubrikkTest\RubrikkTest\obj\Debug\RubrikkTest.csprojAssemblyReference.cache
+D:\Interview-uri\Rubrikk\RubrikkTest\RubrikkTest\obj\Debug\RubrikkTest.csproj.CoreCompileInputs.cache
+D:\Interview-uri\Rubrikk\RubrikkTest\RubrikkTest\bin\Debug\RubrikkTest.exe.config
+D:\Interview-uri\Rubrikk\RubrikkTest\RubrikkTest\bin\Debug\RubrikkTest.exe
+D:\Interview-uri\Rubrikk\RubrikkTest\RubrikkTest\bin\Debug\RubrikkTest.pdb
+D:\Interview-uri\Rubrikk\RubrikkTest\RubrikkTest\obj\Debug\RubrikkTest.exe
+D:\Interview-uri\Rubrikk\RubrikkTest\RubrikkTest\obj\Debug\RubrikkTest.pdb
